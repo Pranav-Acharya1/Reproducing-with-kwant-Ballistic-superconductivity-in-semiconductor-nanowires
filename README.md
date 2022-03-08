@@ -1,0 +1,2 @@
+# Reproducing-with-kwant-Ballistic-superconductivity-in-semiconductor-nanowires
+The purpose of this project is to reproduce the simulations noted in the paper https://www.nature.com/articles/ncomms16025 (DOI: 10.1038/ncomms16025). This is to prove that the Kwant python project works as intended, and to get more familiar with it. The foremost aim is to reproduce figure 3b of the the paper (which was originally plotted with Kwant)
